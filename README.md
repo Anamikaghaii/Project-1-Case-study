@@ -2,7 +2,7 @@
 This case study has been performed on a dataset that has funding information of the Indian startups from January 2015 to August 2017.
 # Feature Details :
 SNo - Serial number.
-Date - Date of funding in format DD/MM/YYYY.
+Date - Date of funding in format DD/MM/YYYY. 
 StartupName - Name of the startup which got funded.
 IndustryVertical - Industry to which the startup belongs.
 SubVertical - Sub-category of the industry type.
